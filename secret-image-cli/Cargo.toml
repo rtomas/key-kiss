@@ -1,0 +1,13 @@
+[package]
+name = "secret-image-cli"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+image = "0.24.7"
+imageproc = "0.23"
+rusttype = "0.9.3"
+sha256 = "1.4.0"
