@@ -25,7 +25,7 @@ There are two apps in this project:
     - `cd secret-image-cli`
     - `cargo run`
       
-![267437596-178490ed-a4d1-4d20-a902-40f52e533f76](https://github.com/rtomas/key-kiss/assets/944960/230a722a-870d-4ba8-b621-ebaeb8aa0f3a)
+![secret image](https://github.com/rtomas/key-kiss/assets/944960/c1b78d1b-5d1d-42f8-8c14-8d1c30a683e9)
 
 2. Print the image. (example of the generated image).
 
@@ -58,7 +58,6 @@ There are two apps in this project:
 
 
 ### to-do:
- + Update GIFs from readme
- + Add the version of the cli to the slots.
+ + Add the version number of the cli, that was used to the create image, in the slots UI.
  + Re-enter password (compare) and hide characters.
  + Improve UX
