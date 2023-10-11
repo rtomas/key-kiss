@@ -35,6 +35,7 @@ There are two apps in this project:
 3. Delete the png file.
 
 4. Get your private key in metamask.
+
 ![267444635-eb064cfd-ceef-4e53-93a7-673e5625c434](https://github.com/rtomas/key-kiss/assets/944960/a77ffe8a-a546-43d6-9cc3-3eef007aa3ff)
 
 5. Create the "secret kiss paper" like the image below from your private key
