@@ -9,9 +9,9 @@ use std::process::exit;
 
 fn main() {
     std::process::Command::new("clear").status().unwrap();
-    println!("Welcome to 'key-kiss' (key keep it simple/secure) CLI");
+    println!("Welcome to 'key-kiss' (key keep it safe/secure) CLI");
     println!(" ");
-    println!(" --- don't forget to delete the output image  after using it ---");
+    println!(" --- don't forget to delete the output image after using it ---");
     println!(" ");
 
     let magic_string = get_cli_string("Enter your password (min 8 caracters): ");
