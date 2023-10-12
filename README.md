@@ -1,6 +1,6 @@
 # key-kiss
 
-(in process to present in ETHglobal Online Hackathon '23)
+--- created for ETHglobal Online Hackathon '23 ---
 
 Welcome to 'key-kiss' (key keep it safe/secure)
 
