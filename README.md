@@ -8,18 +8,18 @@ A more secure way to store your private key, preventing your funds from being st
 
 There are two apps in this project:
 
-1. A cli (secret-image-cli) that creates and image since a deterministic order for characters in matrix with a personal password.
+1. A CLI `/secret-image-cli` that creates and image since a deterministic order for characters in matrix with a personal password.
 
 
-2. A web app (slots-paper-create) that lets you choose the slots of your private key character in each col.
+2. A web app `/slots-paper-create` that lets you choose the slots of your private key character in each col.
 
 [https://editor.p5js.org/rtomas/full/o1YL8Iw6J](https://editor.p5js.org/rtomas/full/o1YL8Iw6J)
 
 ## How it works
 
-### Create the secret kiss paper.
+### Create the deterministic image & the secret kiss paper.
 
-1. Generate a new image with your personal password. Execute the cli.
+1. Generate a new deterministic image with your password. Execute the CLI.
 
     - `git clone https://github.com/rtomas/key-kiss.git`
     - `cd secret-image-cli`
@@ -48,7 +48,7 @@ There are two apps in this project:
 
 ### Recovery
 
-1. Generate the image with your personal numeric password.
+1. Generate the deterministic image with your password.
 
     - `git clone https://github.com/rtomas/key-kiss.git`
     - `cd secret-image-cli`
