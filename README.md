@@ -52,7 +52,7 @@ There are two apps in this project:
     - `cd secret-image-cli`
     - `cargo run`
       
-2. Put the "secret kiss paper" with the key-kiss characters printed or with the screen and watch you private key.
+2. Put the "secret kiss paper" with the deterministic image printed or with the screen and watch you private key.
 ![269778499-5e8034fd-7b43-4d8b-9ba5-788af10b0a69](https://github.com/rtomas/key-kiss/assets/944960/18e57ada-6e5f-4aeb-a446-6843145e6564)
 
 
