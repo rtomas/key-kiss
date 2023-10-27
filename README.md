@@ -1,7 +1,5 @@
 # key-kiss
 
---- created for ETHglobal Online Hackathon '23 ---
-
 Welcome to 'key-kiss' (key keep it safe/secure)
 
 A more secure way to store your private key, preventing your funds from being stolen if someone finds your 12-word paper.
